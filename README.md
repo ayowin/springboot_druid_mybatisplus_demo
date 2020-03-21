@@ -1,6 +1,4 @@
-# musheng_wms_server
-
-木笙乐器仓库管理系统后端
+# springboot_druid_mybatisplus_demo
 
 spring boot 项目
-整合了mybatis、druid
+整合druid、mybatis plus
